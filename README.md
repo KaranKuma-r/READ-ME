@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KaranKuma-r
 - 👀 I’m interested in web devoloping
-- 🌱 I’m currently learning java script 
+- 🌱 I’m currently learning ......
   
 
 <!---
