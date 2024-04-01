@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KaranKuma-r
-- 👀 I’m interested in web devoloping
+- 👀 I’m interested in web devploping
 - 🌱 I’m currently learning ......
   
 
